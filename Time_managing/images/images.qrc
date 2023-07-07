@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>1038978_animal_easter_gooey_lamb_sheep_icon.png</file>
+        <file>1038979_animal_bunny_carrot_easter_food_icon.png</file>
+        <file>1038980_flower_growth_leaf_nature_petals_icon.png</file>
+        <file>1038981_animal_back_bird_chicken_easter_icon.png</file>
+        <file>1509441_animal_bird_halloween_night_owl_icon.png</file>
+        <file>1651850_animal_christmas_deer_rudolf_icon.png</file>
+        <file>6593718_animal_farm_pig_icon.png</file>
+        <file>6593726_animal_chicken_farm_rooster_icon.png</file>
+        <file>9025342_cat_animal_icon.png</file>
+    </qresource>
+</RCC>
